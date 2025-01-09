@@ -60,7 +60,7 @@ Artificial Intelligence (AI) refers to the simulation of human intelligence in m
 
 Output:
 ```vbnet
-Artificial Intelligence involves machines simulating human intelligence, including learning and problem-solving.  
+ Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans . The term may also apply to any machine that exhibits traits associated with a human mind, such as learning and problem-solving . Artificial Intelligence is a form of artificial intelligence that mimics the intelligence of humans . 
 ```
 
 ## Technologies Used
