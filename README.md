@@ -1,6 +1,6 @@
 # AI-Powered Text Summarizer  
 
-![](images/interface.png)  
+![ ](images/interface.jpg)  
 
 ## Overview  
 The AI-Powered Text Summarizer is a web-based application designed to simplify and condense lengthy text into concise and meaningful summaries. Built using the Gradio interface and Hugging Face's powerful `sshleifer/distilbart-cnn-12-6` model, this tool leverages state-of-the-art natural language processing (NLP) techniques for text summarization.  
